@@ -1,0 +1,6 @@
+[SERVER] Client connected
+[CLIENT] Connected to server
+[CLIENT-SENT] hi
+[SERVER-RECEIVED] hi
+[SERVER-SENT] hi
+[CLIENT-RECEIVED] hi
